@@ -8,7 +8,7 @@ Test Template     ขั้นตอนการ login ให้ fail
 *** Test Cases ***
 # Case name     | username  | password
 #-------------------------------------
-Wrong username   demo       mode
+Wrong username   demo2       mode
 Wrong password   demo        mode2
 Empty username   ${EMPTY}    mode
 Empty password   demo        ${EMPTY}
